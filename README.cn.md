@@ -4,7 +4,7 @@
 
 A terminal-based client for pinboard.in
 
-![tinboard](https://repo.x-cmd.io/tinboard.svg)
+![tinboard](https://repo.x-cmd.io/tinboard.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,6 @@ x install tinboard
 
 - **最新版本**: `v0.15.1` (2024-06-23)
 - **最近提交**: 2025-01-04
-- **发布时间**: 2024-06-23T20:30:04Z
 
 ## 流行度
 
@@ -61,4 +60,4 @@ tinboard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:33:18Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:32:33Z._
